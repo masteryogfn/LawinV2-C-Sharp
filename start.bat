@@ -1,5 +1,5 @@
 @echo off
-title RadiumServer
+title Radium Backend
 :start
 dotnet run
 goto start

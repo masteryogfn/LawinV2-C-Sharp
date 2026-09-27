@@ -1,5 +1,5 @@
-# RADIUM SERVER IN C#
-- USING VS 2026
-- PROPER BACKEND IN C#
-- EASY TO USE
-- BY MASTERY AND BRUIT.
+# RADIUM BACKEND
+- First ever C# Global OGFN backend.
+- Powered by .NET 10 & C#
+- High Performance & Easy Configuration (.env)
+- By Mastery & Bruit

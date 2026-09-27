@@ -9,8 +9,8 @@
       "_type": "CommonUI Simple Message",
       "message": {
         "_type": "CommonUI Simple Message Base",
-        "title": "Radium V2",
-        "body": "Join my discord: https://discord.gg/KJ8UaHZ\nYouTube: Lawin\nTwitter: @lawin_010\nSource: https://github.com/Lawin0129/RadiumServerV2"
+        "title": "Radium Backend",
+        "body": "First ever C# Global OGFN backend."
       }
     },
     "_activeDate": "2017-07-19T13:14:04.490Z",
@@ -222,8 +222,8 @@
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "Radium V2",
-          "body": "Enjoy Radium V2!",
+          "title": "Radium Backend",
+          "body": "First ever C# Global OGFN backend.",
           "spotlight": false
         }
       ]
@@ -1224,8 +1224,8 @@
         {
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "title": "Radium V2",
-          "body": "Server created by Lawin (Twitter: @lawin_010)\nSource: https://github.com/Lawin0129/RadiumServerV2",
+          "title": "Radium Backend",
+          "body": "First ever C# Global OGFN backend.",
           "spotlight": true
         }
       ]
@@ -1249,8 +1249,8 @@
           "gamemodes": [],
           "hidden": false,
           "_type": "CommonUI Emergency Notice Base",
-          "title": "Radium V2",
-          "body": "Server created by Lawin (Twitter: @lawin_010)\nSource: https://github.com/Lawin0129/RadiumServerV2"
+          "title": "Radium Backend",
+          "body": "First ever C# Global OGFN backend."
         }
       ]
     },
@@ -5982,8 +5982,8 @@
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "Radium V2",
-          "body": "Enjoy Radium V2!",
+          "title": "Radium Backend",
+          "body": "First ever C# Global OGFN backend.",
           "spotlight": false
         }
       ]
@@ -6067,8 +6067,8 @@
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "Radium V2",
-          "body": "Enjoy Radium V2!",
+          "title": "Radium Backend",
+          "body": "First ever C# Global OGFN backend.",
           "spotlight": false
         }
       ]
