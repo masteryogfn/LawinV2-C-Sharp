@@ -1,2 +1,5 @@
-# LawinV2-in-C-
-This is a OG Fortnite backend Repo we are rewriting the whole LawinServerV2 OG Fortnite backend in C#!
+# LAWINSERVER V2 IN C#
+- USING VS 2026
+- PROPER BACKEND IN C#
+- EASY TO USE
+- BY MASTERY AND BRUIT.
